@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-novi",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "City of Novi GIS — Novi, Michigan open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-bff5ee46a530bc0a8f7b8497f18c6d49c5070a199b09a8608f43ba9383c273ed",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-08ec88c548fdc3d1ba9949aca7ba27b9b040d75ff17e63443b91ede6f4768c2a",
+    "sourceCommit": "454041882179fae560c06e770b6b7a2f33970015"
   }
 }
